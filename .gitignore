@@ -1,0 +1,15 @@
+# Personal planning and AI tooling
+.agents/
+_bmad/
+_bmad-output/
+AGENTS.md
+docs/
+.github/prompts/
+
+# Local files and secrets
+.DS_Store
+.env
+
+# Python
+venv/
+__pycache__/
