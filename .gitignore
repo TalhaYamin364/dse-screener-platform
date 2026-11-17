@@ -15,3 +15,5 @@ docs/
 venv/
 __pycache__/
 .vscode/
+# Large raw datasets
+data/
