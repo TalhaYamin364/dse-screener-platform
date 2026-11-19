@@ -1,2 +1,3 @@
 fastapi==0.163.1
+requests==2.34.2
 uvicorn[standard]==0.54.0
